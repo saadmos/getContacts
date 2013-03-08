@@ -1,0 +1,76 @@
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact] INFO - Opening the solution
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact] INFO - Opening the users and groups directory
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact] INFO - Users and groups directory opened (duration: 25 ms)
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Opening the project
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Opening the database
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Database opened (duration: 10 ms)
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Project opened (duration: 17 ms)
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Opening the project
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact] INFO - Solution opened (duration: 152 ms)
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact] INFO - Starting the solution
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Starting the project
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Starting the HTTP server
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - HTTP server started (duration: 18 ms)
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Project started (duration: 60 ms)
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Starting the project
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Starting the HTTP server
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - HTTP server started (duration: 14 ms)
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Project started (duration: 40 ms)
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Executing the bootstrap(s)
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Bootstrap(s) executed (duration: 7 ms)
+2013-02-04 15:57:42 [com.wakanda-software.getPhoneContact] INFO - Solution started (duration: 108 ms)
+2013-02-04 16:12:39 [com.wakanda-software.getPhoneContact] INFO - Stopping the solution
+2013-02-04 16:12:39 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Stopping the project
+2013-02-04 16:12:41 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Project stopped (duration: 2033 ms)
+2013-02-04 16:12:41 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Stopping the project
+2013-02-04 16:12:43 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Project stopped (duration: 2027 ms)
+2013-02-04 16:12:43 [com.wakanda-software.getPhoneContact] INFO - Solution stopped (duration: 4061 ms)
+2013-02-04 16:12:43 [com.wakanda-software.getPhoneContact] INFO - Closing the solution
+2013-02-04 16:12:43 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Closing the project
+2013-02-04 16:12:43 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Closing the database
+2013-02-04 16:12:43 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Database closed (duration: 401 ms)
+2013-02-04 16:12:43 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Project closed (duration: 407 ms)
+2013-02-04 16:12:43 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Closing the project
+2013-02-04 16:12:43 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Project closed (duration: 4 ms)
+2013-02-04 16:12:44 [com.wakanda-software.getPhoneContact] INFO - Solution closed (duration: 815 ms)
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact] INFO - Opening the solution
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact] INFO - Opening the users and groups directory
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact] INFO - Users and groups directory opened (duration: 10 ms)
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Opening the project
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Opening the database
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Database opened (duration: 26 ms)
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Project opened (duration: 36 ms)
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Opening the project
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Project opened (duration: 3 ms)
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact] INFO - Solution opened (duration: 95 ms)
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact] INFO - Starting the solution
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Starting the project
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Starting the HTTP server
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - HTTP server started (duration: 14 ms)
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Project started (duration: 36 ms)
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Starting the project
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Starting the HTTP server
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - HTTP server started (duration: 14 ms)
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Project started (duration: 35 ms)
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Executing the bootstrap(s)
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Bootstrap(s) executed (duration: 0 ms)
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Executing the bootstrap(s)
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2013-02-04 17:40:24 [com.wakanda-software.getPhoneContact] INFO - Solution started (duration: 81 ms)
+2013-02-04 17:41:12 [com.wakanda-software.getPhoneContact] INFO - Stopping the solution
+2013-02-04 17:41:12 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Stopping the project
+2013-02-04 17:41:14 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Project stopped (duration: 2059 ms)
+2013-02-04 17:41:14 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Stopping the project
+2013-02-04 17:41:16 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Project stopped (duration: 2026 ms)
+2013-02-04 17:41:16 [com.wakanda-software.getPhoneContact] INFO - Solution stopped (duration: 4086 ms)
+2013-02-04 17:41:16 [com.wakanda-software.getPhoneContact] INFO - Closing the solution
+2013-02-04 17:41:16 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Closing the project
+2013-02-04 17:41:16 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Closing the database
+2013-02-04 17:41:17 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Database closed (duration: 481 ms)
+2013-02-04 17:41:17 [com.wakanda-software.getPhoneContact.getPhoneContact] INFO - Project closed (duration: 481 ms)
+2013-02-04 17:41:17 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Closing the project
+2013-02-04 17:41:17 [com.wakanda-software.getPhoneContact.ServerAdmin] INFO - Project closed (duration: 16 ms)
+2013-02-04 17:41:17 [com.wakanda-software.getPhoneContact] INFO - Solution closed (duration: 902 ms)

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><EntityModelCatalog>
+
+<dbInfo name="Model" uuid="DEB2380315EE8E47AF7052ECFC4FADBC"/>
+
+<dataClasses collectionName="ContactCollection" className="Contact" uuid="F1CB6120B6AD444FAC627C936A4675DD" tablePos="1">
+
+	<extraProperties ____objectunic="true" panelColor="#548DD4">
+
+		<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+			<position ____objectunic="true" X="25" Y="20"/>
+
+		</panel>
+
+	</extraProperties>
+
+	<attributes name="ID" kind="storage" type="long" uuid="ACB7E47BE18F214E951FCCFBEAC81B64" fieldPos="1" autosequence="true" unique="true" primKey="true"/>
+
+	<attributes name="nickname" scope="public" uuid="C559AB4725879143A3BF344AC2AE0C86" fieldPos="2" type="string" kind="storage"/>
+
+	<attributes name="phoneNumbers" scope="public" uuid="19B1E4BEC7D4E64AAEB3F0F72EB94FB5" fieldPos="3" type="string" kind="storage"/>
+
+</dataClasses>
+</EntityModelCatalog>
